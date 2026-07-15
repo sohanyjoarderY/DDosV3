@@ -21,7 +21,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet V-DdoS")
 print
-print ("Coded By : Unknown_identified_user )
+print ("Coded By : Unknown_identified_user")
 print ("Author   : Unknown_identified_user")
 print ("Github   : github.com/sohanyjoarderY")
 print ("Yt Page  :https://www.youtube.com/@Unknown_Identfied_user")
